@@ -1,2 +1,2 @@
 # Sky_download
-[Link](huaji55.github.io/Sky_download/index.html)
+[Link](huaji55.github.io/Sky_download)
